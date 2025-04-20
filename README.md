@@ -19,7 +19,7 @@ This is a modern Single Page Application (SPA) eCommerce website built using **R
 - **Styling**: Bootstrap 5, AOS (Animate On Scroll)
 - **State Management**: React Context API
 - **Routing**: React Router DOM
-- **Deployment**: Netlify / GitHub Pages
+- **Deployment**: [Netlify / GitHub Pages](https://moonlit-faloodeh-d93f54.netlify.app/)
 
 ---
 
