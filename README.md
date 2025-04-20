@@ -1,12 +1,32 @@
-# React + Vite
+# 🛍️ E-commerce SPA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern Single Page Application (SPA) eCommerce website built using **React**, **Vite**, and **Bootstrap 5**, featuring:
 
-Currently, two official plugins are available:
+- Product listings with real images
+- Product detail pages
+- Global cart system using React Context API
+- Add to Cart, quantity controls, and cart subtotal
+- Light/Dark theme toggle
+- AOS scroll animations
+- 404 page handling
+- Responsive design with great UI/UX
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React, Vite
+- **Styling**: Bootstrap 5, AOS (Animate On Scroll)
+- **State Management**: React Context API
+- **Routing**: React Router DOM
+- **Deployment**: Netlify / GitHub Pages
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+cd ecommerce-spa
+npm install
+npm run dev
